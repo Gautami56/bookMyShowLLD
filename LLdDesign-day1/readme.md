@@ -57,3 +57,5 @@
    - give the list of offers availabe / food items that user has selected
    - Booking Confirmation Page
    - Time lock functionality - If the user selected on a seat, that seat will be reserved for like few seconds. The seat if not booked then it will be shown after a time lock of say 50 seconds/ 1 minute
+   - Ticket Generation
+   - Add/ Remove / List theatre details
