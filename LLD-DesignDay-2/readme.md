@@ -13,6 +13,8 @@ BOOK MY SHOW - Classes:
    Functions -
    - showList() of movies 
    - filterList()  - based on genres, language, format
+
+# UML DESIGN -
   
 Note - There can be different movies - movie1, movie2, movie3 - These will be different classes extending Class Movies
 ![image](https://github.com/Gautami56/bookMyShowLLD/assets/62929436/d0089836-774d-46eb-8468-411405ca6c36)
