@@ -41,6 +41,7 @@
    - Receive the selected food items and deliver them to the customer
    - Authentication and Authorization of movie ticket
    - Payment offline / directly through customer care
+   - Sending the status of the seats for a movie
 
 
 3. System - BookMyshow
@@ -59,3 +60,4 @@
    - Time lock functionality - If the user selected on a seat, that seat will be reserved for like few seconds. The seat if not booked then it will be shown after a time lock of say 50 seconds/ 1 minute
    - Ticket Generation
    - Add/ Remove / List theatre details
+   - Receive the status of availability of seats for the movie
