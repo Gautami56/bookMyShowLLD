@@ -33,10 +33,27 @@
 
 
 2. Theatre Companies
-   - Onboarding of theatre companies
+   - Onboarding on BookMyShow
    - Availability of seats
    - Receive the request from bookmyshow for any new booking
-   - Accept/ Reject the request fora seat for watching the movie in theatre
+   - Accept/ Reject the request for a seat for watching the movie in theatre
    - Display the new movies and remove old one
    - Receive the selected food items and deliver them to the customer
    - Authentication and Authorization of movie ticket
+   - Payment offline / directly through customer care
+
+
+3. System - BookMyshow
+   - Onboarding of theatre companies
+   - Showing list of movies
+   - Display availability of seats, price ranges, locations, movie theatres
+   - Dsplay recommended movies / top ranking movies by doing sorting based on their ratings
+   - Feedback customer care /support
+   - To give a new review and rating for the movie
+   - Payment
+   - Display the new movies and remove any old one already published and released
+   - OTP functionality
+   - messaging functionality
+   - give the list of offers availabe / food items that user has selected
+   - Booking Confirmation Page
+   - Time lock functionality - If the user selected on a seat, that seat will be reserved for like few seconds. The seat if not booked then it will be shown after a time lock of say 50 seconds/ 1 minute
