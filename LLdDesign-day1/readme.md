@@ -47,7 +47,7 @@
    - Onboarding of theatre companies
    - Showing list of movies
    - Display availability of seats, price ranges, locations, movie theatres
-   - Dsplay recommended movies / top ranking movies by doing sorting based on their ratings
+   - Display recommended movies / top ranking movies by doing sorting based on their ratings
    - Feedback customer care /support
    - To give a new review and rating for the movie
    - Payment
