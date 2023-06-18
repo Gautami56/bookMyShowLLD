@@ -21,7 +21,26 @@ https://lucid.app/lucidchart/113ca846-5d10-422f-a272-5bb449cc137b/edit?viewport_
 
 
 
-Note - MovieItems have diffrence
+Note - MovieItems have diffrent object and hence it si Factory Pattern
+
+# TYPES OF DESIGN PATTERNS -
+1. Design Factory Pattern - We can use this pattern when we have multiple object creation of the same class
+   eg) Type of Movies - Shows, Comedy, Action, Romantic
+
+2 Observer Design Pattern - We can use this pattern for any notifications or any task that is in queue and will be processed once the conditions are met
+This has Subject - the observable that is the one that will send notification
+         Observers /Listeners - they are subscribers or listners receivig the notification
+         
+3. Singleton Design Pattern -  We can use this pattern when we have single objects of the same class. The same object instance wil be used everywhere and wont be modified
+   eg) Database , Cache - only one server ,
+   Note - Here we use only static were objects are not reinstatinated. They dont use classes
+
+4. Stratergic based Design Pattern - We can use this pattern when we have any alogrithms of decision making or ANY filtering logic applied
+   eg) Recommended movies based on type of movie, language selected in past
+       Algos to filter and sort the movies list
+       Various Payment methods applied
+       Availability of seats / movies based on ratings
+       Show Top most rated movies based on ratings and feedbac
 
 
 
