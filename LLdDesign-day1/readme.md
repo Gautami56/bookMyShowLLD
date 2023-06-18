@@ -62,3 +62,4 @@
    - Ticket Generation
    - Add/ Remove / List theatre details
    - Receive the status of availability of seats for the movie
+   - Ratings logic functionality based on rank from 10 and review feedbacks
