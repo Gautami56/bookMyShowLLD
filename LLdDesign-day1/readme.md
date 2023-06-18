@@ -42,6 +42,7 @@
    - Authentication and Authorization of movie ticket
    - Payment offline / directly through customer care
    - Sending the status of the seats for a movie
+   - Verification of tickets
 
 
 3. System - BookMyshow
